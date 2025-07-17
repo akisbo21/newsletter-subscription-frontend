@@ -52,7 +52,7 @@ export default function NewsletterForm() {
     return (
         <form
             onSubmit={onSubmit}
-            className="max-w-md mx-auto p-6 bg-white rounded shadow-md font-sans mt-8"
+            className="max-w-md mx-auto p-6 bg-white rounded shadow-md font-sans"
         >
             <h2 className="text-2xl font-semibold mb-6 text-center">Hírlevél feliratkozás</h2>
 
