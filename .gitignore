@@ -1,0 +1,9 @@
+vendor
+composer.lock
+.idea
+node_modules
+.next
+bun.lock
+/src/next-env.d.ts
+/src/package-lock.json
+/src/yarn.lock
